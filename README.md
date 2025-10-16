@@ -12,11 +12,14 @@ A modern weather forecasting application built with Django that provides real-ti
 
 ## Tech Stack
 
-- **Backend**: Django
+- **Backend**: Django 4.2.6
 - **Frontend**: HTML, CSS, JavaScript
 - **Charts**: Chart.js
 - **API**: OpenWeatherMap API
-- **Database**: SQLite
+- **Machine Learning**: scikit-learn 1.3.1
+- **Data Processing**: pandas 2.1.1, numpy 1.26.0
+- **Environment Management**: python-dotenv 1.0.0
+- **HTTP Client**: requests 2.31.0
 
 ## Setup Instructions
 
